@@ -1,0 +1,15 @@
+# Внутренние материалы — на сайте не нужны
+commits (full).txt
+commits (metselitsa).txt
+vizit.txt
+AGENTS.md
+
+# Исходники логотипов (на странице используются .webp)
+client-logos/*.png
+client-logos/*.jpg
+
+# Служебное
+_preview.html
+_tmp.txt
+Thumbs.db
+.DS_Store
